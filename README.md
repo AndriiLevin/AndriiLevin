@@ -4,7 +4,7 @@
 
 Backend engineer building production-grade distributed systems on AWS and Kubernetes. Currently at [AkriviaHealth](https://akriviahealth.com), where I design FastAPI microservices following DDD principles, own end-to-end observability with OpenTelemetry, and contribute to an Iceberg-based lakehouse architecture. Comfortable operating across application, data, and platform layers.
 
-📍 Reading, UK · ✉️ [andriilevin@gmail.com](mailto:andriilevin@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/andrii-levin-720074b5/)
+📍 Reading, UK  · 💼 [LinkedIn](https://www.linkedin.com/in/andrii-levin-720074b5/)
 
 ---
 
@@ -57,4 +57,4 @@ DDD · Event-driven architecture · GitOps · TDD where it earns its place · Ob
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndriiLevin&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-I also maintain an earlier projects archive at [@Lap-DevOps](https://github.com/Lap-DevOps).
+
